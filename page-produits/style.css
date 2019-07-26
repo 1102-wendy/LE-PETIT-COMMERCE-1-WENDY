@@ -1,0 +1,7 @@
+.page-footer{
+    background: black;
+}
+
+section{
+    min-height: calc(100vh - 150px);
+}
